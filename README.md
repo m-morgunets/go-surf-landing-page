@@ -1,1 +1,1 @@
-# go-surf-landing-page
+# Лендинг Go-Surf
